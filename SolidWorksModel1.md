@@ -56,3 +56,41 @@ it as additional practice to become more familiar with modifying an
 existing model and using the Fillet feature.
 
 ![SolidWorks Practice Model 1 - Fillet Experiment](SolidWorksModel1Fillet.png)
+
+### Drawing Sheet and Title Block
+
+For the engineering drawing, I created a custom title block for the
+drawing sheet. Since I no longer had all of the dimensions from my
+previous drawing sheet available, I recreated the title block and
+documented its dimensions for future use.
+
+The complete title block measures 4.00 inches wide by 1.50 inches
+high. It contains the drawing title, author information, scale, date,
+units, and default tolerances.
+
+The title block was divided into the following sections:
+
+- Main title block: 4.00 in × 1.50 in
+- "All dimensions are inches and degrees": 2.00 in × 0.30 in
+- Default Tolerances section: 2.00 in × 1.20 in
+- Homework Lab section: 2.00 in × 0.90 in
+- Drawn By section: 2.00 in × 0.30 in
+- Scale section: 1.00 in × 0.30 in
+- Date section: 1.00 in × 0.30 in
+
+The text sizes used throughout the title block were:
+
+- "CAL POLY POMONA - ENGINEERING LABS": approximately 16 pt
+- "HOMEWORK LAB": approximately 16 pt
+- "Drawn By: Ryan Vo": 16 pt
+- "Scale: 1:1": 16 pt
+- "Default Tolerances": 12 pt
+- "All dimensions are inches and degrees": 7 pt
+- Default tolerance values: 7 pt
+- Date: 7 pt
+
+The completed title block provides a consistent format that I can
+reuse as a reference when creating future SolidWorks engineering
+drawings.
+
+![Drawing Sheet Format](DrawingSheet.PDF)
