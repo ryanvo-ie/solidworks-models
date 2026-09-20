@@ -33,4 +33,8 @@ to be communicated clearly through an engineering drawing.
 
 ### Completed Drawing
 
-![SolidWorks Practice Model 1](DrawingSheet_EX1.pdf)
+![SolidWorks Drawing Model 1](DrawingSheet_EX1.pdf)
+
+### Completed Model
+
+![SolidWorks Practice Model 1](SolidWorksModel1.png)
