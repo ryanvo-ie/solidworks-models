@@ -38,3 +38,21 @@ to be communicated clearly through an engineering drawing.
 ### Completed Model
 
 ![SolidWorks Practice Model 1](SolidWorksModel1.png)
+
+### Additional Practice – Fillet Feature
+
+After completing the original model, I decided to experiment further
+with SolidWorks by applying fillets to several edges of the part.
+
+The original exercise used sharp edges throughout the model. For
+additional practice, I used the Fillet feature to round selected edges
+around the exterior of the part, the recessed channel, and the circular
+opening. I created multiple fillet features so that I could practice
+selecting different groups of edges and observe how the geometry
+changed after each operation.
+
+This modification was not required for the original exercise. I added
+it as additional practice to become more familiar with modifying an
+existing model and using the Fillet feature.
+
+![SolidWorks Practice Model 1 - Fillet Experiment](SolidWorksModel1Fillet.png)
